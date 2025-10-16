@@ -1,0 +1,16 @@
+# Ignorer tout par défaut
+*
+
+# Ne pas ignorer le .gitignore lui-même
+!.gitignore
+
+# Inclure le Dockerfile à la racine
+!/Dockerfile
+
+# Inclure tout le dossier notebooks
+!/notebooks/
+!/notebooks/**
+
+# (Optionnel) Ignorer les fichiers temporaires typiques dans notebooks
+notebooks/.ipynb_checkpoints/
+notebooks/__pycache__/

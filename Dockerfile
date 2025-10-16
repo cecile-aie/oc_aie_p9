@@ -32,7 +32,8 @@ RUN pip install --no-cache-dir \
     tqdm \
     jupyterlab \
     fastparquet \
-    plotly
+    plotly \
+    SimpleITK
 
 # Torch utils + vision
 RUN pip install --no-cache-dir \

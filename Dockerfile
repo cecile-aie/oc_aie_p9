@@ -33,7 +33,11 @@ RUN pip install --no-cache-dir \
     jupyterlab \
     fastparquet \
     plotly \
-    SimpleITK
+    SimpleITK \
+    umap-learn \
+    scikit-posthocs \
+    statsmodels \
+    nvidia-ml-py3
 
 # Torch utils + vision
 RUN pip install --no-cache-dir \

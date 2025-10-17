@@ -14,3 +14,7 @@
 # (Optionnel) Ignorer les fichiers temporaires typiques dans notebooks
 notebooks/.ipynb_checkpoints/
 notebooks/__pycache__/
+
+# DataGenerator
+!/src/p9dg/
+!/src/p9dg/**

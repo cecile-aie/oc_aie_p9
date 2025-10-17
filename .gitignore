@@ -1,20 +1,14 @@
-# Ignorer tout par défaut
-*
+# Ignorer les data
+/data
+/data/**
 
-# Ne pas ignorer le .gitignore lui-même
-!.gitignore
-
-# Inclure le Dockerfile à la racine
-!/Dockerfile
-
-# Inclure tout le dossier notebooks
-!/notebooks/
-!/notebooks/**
+# Ignorer les outputs
+/outputs
+/outputs/**
 
 # (Optionnel) Ignorer les fichiers temporaires typiques dans notebooks
 notebooks/.ipynb_checkpoints/
 notebooks/__pycache__/
 
-# DataGenerator
-!/src/p9dg/
-!/src/p9dg/**
+
+Dockerfile_tensorflow

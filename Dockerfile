@@ -62,7 +62,9 @@ RUN pip install --no-cache-dir \
 # ============================================================
 WORKDIR /workspace
 ENV PYTHONPATH=/workspace
-
+ENV CONFIG_DIR=/workspace/configs
+ENV DATASET_DIR=/workspace/data
+ENV OUTPUT_DIR=/workspace/outputs
 
 # ============================================================
 # 🎯 Default command

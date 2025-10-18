@@ -12,3 +12,7 @@ notebooks/__pycache__/
 
 
 Dockerfile_tensorflow
+p9dg/__pycache__/__init__.cpython-311.pyc
+p9dg/__pycache__/histo_dataset.cpython-311.pyc
+.gitignore
+p9dg/utils/__pycache__/class_mappings.cpython-311.pyc

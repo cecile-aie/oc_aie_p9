@@ -1,83 +1,92 @@
 {
     "ADI": {
-        "lap_var_min": 227.71540696608034,
-        "entropy_min": 3.9769148629019764,
-        "white_ratio_max": 0.32540258290816293,
-        "sat_ratio_max": 0.009995482568027207,
-        "tenengrad_min": 7144.4966796875,
-        "jpeg_blockiness_max": 0.8862876977834023,
-        "tissue_frac_min": 0.7348174426020408
+        "lap_var_min": 250.78582164608704,
+        "entropy_min": 4.066034075179459,
+        "white_ratio_max": 0.14578782684948885,
+        "sat_ratio_max": 0.008104472257653057,
+        "tenengrad_min": 8548.572265625,
+        "jpeg_blockiness_max": 0.8511592745516547,
+        "tissue_frac_min": 0.9120196906887754,
+        "class_name": "ADI"
     },
     "BACK": {
-        "lap_var_min": 19.641565730640263,
-        "entropy_min": 0.9889927333831167,
-        "white_ratio_max": 0.049595424107142856,
-        "sat_ratio_max": 0.008816299957482981,
-        "tenengrad_min": 291.7360717773438,
-        "jpeg_blockiness_max": 3.467975640293934,
-        "tissue_frac_min": 0.9514469068877551
+        "lap_var_min": 14.71179287865578,
+        "entropy_min": 1.1105946296438072,
+        "white_ratio_max": 0.18209801498724484,
+        "sat_ratio_max": 0.018529110863095156,
+        "tenengrad_min": 323.2005523681641,
+        "jpeg_blockiness_max": 3.9450891974840543,
+        "tissue_frac_min": 0.8223204320790817,
+        "class_name": "BACK"
     },
     "DEB": {
-        "lap_var_min": 339.2987758621381,
-        "entropy_min": 6.076802385579828,
-        "white_ratio_max": 0.24328762755102037,
-        "sat_ratio_max": 0.03279854910714284,
-        "tenengrad_min": 9579.4111328125,
-        "jpeg_blockiness_max": 0.08949497872589246,
-        "tissue_frac_min": 0.8054627710459183
+        "lap_var_min": 389.87512177857,
+        "entropy_min": 6.0143649935481855,
+        "white_ratio_max": 0.2159418845663264,
+        "sat_ratio_max": 0.03126527954931971,
+        "tenengrad_min": 9584.225390625,
+        "jpeg_blockiness_max": 0.06635357146420995,
+        "tissue_frac_min": 0.8182318239795918,
+        "class_name": "DEB"
     },
     "LYM": {
-        "lap_var_min": 519.0507356221057,
-        "entropy_min": 7.223474519162422,
-        "white_ratio_max": 0.17586894132653058,
-        "sat_ratio_max": 0.021813881802721084,
-        "tenengrad_min": 24136.462109375,
-        "jpeg_blockiness_max": 0.10403282775171843,
-        "tissue_frac_min": 0.8965322066326531
+        "lap_var_min": 409.63875849307556,
+        "entropy_min": 7.201754841269687,
+        "white_ratio_max": 0.162434231505102,
+        "sat_ratio_max": 0.0199305112670068,
+        "tenengrad_min": 24266.624609375,
+        "jpeg_blockiness_max": 0.14223021499192987,
+        "tissue_frac_min": 0.8998256138392857,
+        "class_name": "LYM"
     },
     "MUC": {
-        "lap_var_min": 355.7223350417659,
-        "entropy_min": 6.503186231989068,
-        "white_ratio_max": 0.20171197385204034,
-        "sat_ratio_max": 0.013674864477040801,
-        "tenengrad_min": 10721.16875,
-        "jpeg_blockiness_max": 0.11936743861956436,
-        "tissue_frac_min": 0.8356166294642858
+        "lap_var_min": 354.3618837322408,
+        "entropy_min": 6.536616200844541,
+        "white_ratio_max": 0.2762276785714286,
+        "sat_ratio_max": 0.013874495110544218,
+        "tenengrad_min": 10883.08203125,
+        "jpeg_blockiness_max": 0.17525854776454358,
+        "tissue_frac_min": 0.7525410554846939,
+        "class_name": "MUC"
     },
     "MUS": {
-        "lap_var_min": 218.85266753357186,
-        "entropy_min": 6.106491641103878,
-        "white_ratio_max": 0.3358378507653061,
-        "sat_ratio_max": 0.028600991177721087,
-        "tenengrad_min": 8764.48095703125,
-        "jpeg_blockiness_max": 0.3361996039400488,
-        "tissue_frac_min": 0.673583984375
+        "lap_var_min": 293.4580582186164,
+        "entropy_min": 6.19601168706466,
+        "white_ratio_max": 0.3332469706632653,
+        "sat_ratio_max": 0.028519610969387755,
+        "tenengrad_min": 9247.578125,
+        "jpeg_blockiness_max": 0.2033756537077076,
+        "tissue_frac_min": 0.6962790975765306,
+        "class_name": "MUS"
     },
     "NORM": {
-        "lap_var_min": 203.98157346337,
-        "entropy_min": 7.026083254397444,
-        "white_ratio_max": 0.2051498724489796,
-        "sat_ratio_max": 0.02198494632227891,
-        "tenengrad_min": 9407.34658203125,
-        "jpeg_blockiness_max": 0.25726381536950005,
-        "tissue_frac_min": 0.8174764827806122
+        "lap_var_min": 210.021855263291,
+        "entropy_min": 7.068279634466691,
+        "white_ratio_max": 0.18334562340561222,
+        "sat_ratio_max": 0.02094161883503401,
+        "tenengrad_min": 9279.32998046875,
+        "jpeg_blockiness_max": 0.2265225375529619,
+        "tissue_frac_min": 0.8566625478316326,
+        "class_name": "NORM"
     },
     "STR": {
-        "lap_var_min": 348.0635928499952,
-        "entropy_min": 6.694010019134309,
-        "white_ratio_max": 0.1136051100127551,
-        "sat_ratio_max": 0.023562061543367346,
-        "tenengrad_min": 11119.55859375,
-        "jpeg_blockiness_max": 0.17352709439687422,
-        "tissue_frac_min": 0.9325374681122449
+        "lap_var_min": 289.5898490048607,
+        "entropy_min": 6.575955746694713,
+        "white_ratio_max": 0.11125239158163265,
+        "sat_ratio_max": 0.021797937925170062,
+        "tenengrad_min": 10168.3123046875,
+        "jpeg_blockiness_max": 0.15141602788049485,
+        "tissue_frac_min": 0.9352758290816326,
+        "class_name": "STR"
     },
     "TUM": {
-        "lap_var_min": 315.1397208039436,
-        "entropy_min": 6.913964331607503,
-        "white_ratio_max": 0.22066326530612226,
-        "sat_ratio_max": 0.015088222789115643,
-        "tenengrad_min": 12734.761328125,
-        "jpeg_blockiness_max": 0.1083858248730172,
-        "tissue_frac_min": 0.8030133928571429
+        "lap_var_min": 332.2182046276984,
+        "entropy_min": 6.7463279674061685,
+        "white_ratio_max": 0.24735630580357162,
+        "sat_ratio_max": 0.0146886293579932,
+        "tenengrad_min": 11865.125,
+        "jpeg_blockiness_max": 0.043441834794397,
+        "tissue_frac_min": 0.7863749601403062,
+        "class_name": "TUM"
     }
 }
